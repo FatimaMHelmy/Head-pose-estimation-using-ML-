@@ -37,7 +37,7 @@ Now we have created our dataset, we just have to pick a machine-learning algorit
 
 ![sklearn](https://user-images.githubusercontent.com/84232181/221651417-4d388343-f9ac-4bb6-b63d-80483a73a862.png)
 
-I tried:
+**I tried**:
    
       1:SVR 
          
@@ -52,13 +52,16 @@ I tried:
 
 
 # Evaluation:
-I dependent on two factors:
+I depended on two factors:
 
       1:Mean square error 
    
       2:Drown axis 
       
 After many trails for tunning, XGBoost was the worst one It took alot of time for fitting and despite it's low MSE, it's performance on image was not good. The other three models got almost the same results.
+
+![OUTPUT](https://user-images.githubusercontent.com/84232181/221685268-9ca097d9-8117-46a1-94d7-3d46a8d6acc8.png)
+
 
 
 # 1:
