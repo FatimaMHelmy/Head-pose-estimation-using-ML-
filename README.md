@@ -44,6 +44,9 @@ I tried:
       2:XGBOOST
       
       3:LASSO
+      
+      4:ElasticNet
+
 
 
 
@@ -54,7 +57,9 @@ I dependent on two factors:
       1:Mean square error 
    
       2:Drown axis 
-   
+      
+After many trails for tunning, XGBoost was the worst one It took alot of time for fitting and despite it's low MSE, it's performance on image was not good. The other three models got almost the same results.
+
 
 # 1:
 
