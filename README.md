@@ -18,7 +18,7 @@ You need the 2D (x,y) locations of face landmarks. I used two approches
 2: using all face landmarks which extracted by mediapie, they are 465 points.
 
 First approch didn't work well but second one gave me high accuray.
-![Uploading 6_points.png…]
+
 ![facial-landmarks-python-points](https://user-images.githubusercontent.com/84232181/221379667-1e208b4b-8cf5-4bd9-80e4-de02d9d1c56f.jpg)
 
             
