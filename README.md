@@ -14,10 +14,12 @@ In normal cases, we can solve the head pose problem mathmatically if we have **3
             
             -2:(Head Pose Estimation with Computer Vision||blog)[https://indatalabs.com/blog/head-pose-estimation-with-cv]
 You need the 2D (x,y) locations of face landmarks. I used two approches 
+
 1: using the points which determine the face ( the tip of the nose, the chin, the left corner of the left eye, the right corner of the right eye, the left corner of the mouth, and the right corner of the mouth).
+
 2: using all face landmarks which extracted by mediapie, they are 465 points.
 
-First approch didn't work well but second one gave me high accuray.
+## I found that the features of first approach weren't enough and gave me low accuracy so I used second one.
 
 ![comparison](https://user-images.githubusercontent.com/84232181/221622425-9fb13999-a306-4bef-af67-a32629e6ad7d.png)
 
