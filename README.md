@@ -19,7 +19,7 @@ You need the 2D (x,y) locations of face landmarks. I used two approches
 
 First approch didn't work well but second one gave me high accuray.
 
-![facial-landmarks-python-points](https://user-images.githubusercontent.com/84232181/221379667-1e208b4b-8cf5-4bd9-80e4-de02d9d1c56f.jpg)
+![6_points](https://user-images.githubusercontent.com/84232181/221610477-68369696-01f4-49d4-b30b-7f33778fb060.png) ![facial-landmarks-python-points](https://user-images.githubusercontent.com/84232181/221379667-1e208b4b-8cf5-4bd9-80e4-de02d9d1c56f.jpg)   
 
             
 ##  How to get theses 2D landmarks 
