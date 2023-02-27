@@ -13,9 +13,9 @@ Since the face of a person can rotate over all three axis — but with some limi
 
 In normal cases, we can solve the head pose problem mathmatically if we have **3D landmarks** [check this article](https://medium.com/analytics-vidhya/real-time-head-pose-estimation-with-opencv-and-dlib-e8dc10d62078), but in our problem we have only **2D landmarks** so the mathmatical solution is fired here.>>  check these sources
 
-            -1:[Face Alignment Across Large Poses: A 3D Solution||paper](https://arxiv.org/pdf/1511.07212.pdf)
+   1:[Face Alignment Across Large Poses: A 3D Solution||paper](https://arxiv.org/pdf/1511.07212.pdf)
             
-            -2:[Head Pose Estimation with Computer Vision||blog](https://indatalabs.com/blog/head-pose-estimation-with-cv)
+   2:[Head Pose Estimation with Computer Vision||blog](https://indatalabs.com/blog/head-pose-estimation-with-cv)
 
 # Dataset preparation
 **we are using [AFLW2000](https://paperswithcode.com/dataset/aflw2000-3d)**
