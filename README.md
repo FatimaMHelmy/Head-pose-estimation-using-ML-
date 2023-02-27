@@ -22,7 +22,7 @@ In normal cases, we can solve the head pose problem mathmatically if we have **3
 
 You need the 2D (x,y) locations of face landmarks. I used two approches 
 
-1: using the points which determine the face ( the tip of the nose, the chin, the left corner of the left eye, the right corner of the right eye, the left corner of the mouth, and the right corner of the mouth).
+1: ~~using the points which determine the face ( the tip of the nose, the chin, the left corner of the left eye, the right corner of the right eye, the left corner of the mouth, and the right corner of the mouth).
 
 2: using all face landmarks which extracted by mediapie, they are 465 points.
 
@@ -41,8 +41,10 @@ Now we have created our dataset, we just have to pick a machine-learning algorit
 
 
 # Evaluation:
-I dependent on two factore 
+I dependent on two factors:
+
    1:Mean square error 
+   
    2:Drown axis 
    
 
