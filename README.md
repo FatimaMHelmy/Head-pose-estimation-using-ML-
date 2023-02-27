@@ -37,6 +37,14 @@ Now we have created our dataset, we just have to pick a machine-learning algorit
 
 ![sklearn](https://user-images.githubusercontent.com/84232181/221651417-4d388343-f9ac-4bb6-b63d-80483a73a862.png)
 
+I tried:
+   
+      1:SVR 
+         
+      2:XGBOOST
+      
+      3:LASSO
+
 
 
 
