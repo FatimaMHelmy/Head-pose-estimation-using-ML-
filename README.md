@@ -32,7 +32,12 @@ You need the 2D (x,y) locations of face landmarks. I used two approches
 
 
             
-##  How to get theses 2D landmarks 
+# MODEL SELECTION
+Now we have created our dataset, we just have to pick a machine-learning algorithm to classify the poses. In this step, we will take an image, run the face mesh model (that we used earlier for creating the dataset) to get the key points of the person present in that image, and run our model on that test case. The model is expected to give the correct results with a high confidence score. I am going to use several models from the sklearn library then choose the best one to perform the **Regression task**.
+![sklearn](https://user-images.githubusercontent.com/84232181/221651417-4d388343-f9ac-4bb6-b63d-80483a73a862.png)
+
+
+
 
 
 ## Steps:
