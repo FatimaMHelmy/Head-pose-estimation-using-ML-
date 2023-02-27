@@ -31,6 +31,8 @@ You need the 2D (x,y) locations of face landmarks. I used two approches
 ![comparison](https://user-images.githubusercontent.com/84232181/221646987-fc696c0f-23df-4593-bddb-084dfdd119bf.png)
 
 
+
+
             
 # MODEL SELECTION
 Now we have created our dataset, we just have to pick a machine-learning algorithm to classify the poses. I tried several REGRESSION models from the sklearn library then chossed the best one to perform the **Regression task**.
@@ -64,5 +66,9 @@ After many trails for tunning, XGBoost was the worst one It took alot of time fo
 
 
 
+
+### Evaluation video 
+
+https://user-images.githubusercontent.com/84232181/221697026-1b373c23-612c-48fb-9b0f-246140936120.mp4
 
 
