@@ -69,6 +69,5 @@ After many trails for tunning, XGBoost was the worst one It took alot of time fo
 
 ### Evaluation video 
 
-https://user-images.githubusercontent.com/84232181/221697026-1b373c23-612c-48fb-9b0f-246140936120.mp4
 
 
