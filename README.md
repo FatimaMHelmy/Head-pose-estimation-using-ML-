@@ -35,7 +35,7 @@ You need the 2D (x,y) locations of face landmarks. I used two approches
 
             
 # MODEL SELECTION
-Now we have created our dataset, we just have to pick a machine-learning algorithm to classify the poses. I tried several REGRESSION models from the sklearn library then chossed the best one to perform the **Regression task**.
+Now we have created our dataset, we just have to pick a machine-learning algorithm to classify the poses. I tried several REGRESSION models from the sklearn library then choosed the best one to perform the **Regression task**.
 
 ![sklearn](https://user-images.githubusercontent.com/84232181/221651417-4d388343-f9ac-4bb6-b63d-80483a73a862.png)
 
