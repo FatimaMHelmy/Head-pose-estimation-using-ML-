@@ -11,7 +11,7 @@ Since the face of a person can rotate over all three axis — but with some limi
 
 ## Why Machine Learning :
 
-In normal cases, we can solve the head pose problem mathmatically if we have **3D landmarks** [check this article](https://medium.com/analytics-vidhya/real-time-head-pose-estimation-with-opencv-and-dlib-e8dc10d62078), but in our problem we have only **2D landmarks** so the mathmatical solution is fired here.>>  check these sources
+In normal cases, we can solve the head pose problem mathematically  if we have **3D landmarks** [check this article](https://medium.com/analytics-vidhya/real-time-head-pose-estimation-with-opencv-and-dlib-e8dc10d62078), but in our problem we have only **2D landmarks** so the mathematical  solution is fired here.>>  check these sources
 
    1:[Face Alignment Across Large Poses: A 3D Solution||paper](https://arxiv.org/pdf/1511.07212.pdf)
             
